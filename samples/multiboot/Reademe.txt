@@ -1,0 +1,11 @@
+		multiboot内核
+
+编译内核
+	make all
+
+启动内核
+	qemu-system-i386 -kernel myos.bin
+	
+参考文档
+http://www.gnu.org/software/grub/manual/multiboot/multiboot.html
+http://wiki.osdev.org/Bare_Bones
