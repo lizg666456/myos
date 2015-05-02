@@ -1,7 +1,7 @@
 myos
 ====
 
-for easy os theroy chk
+os 理论实践
 
 reference
 ---------
